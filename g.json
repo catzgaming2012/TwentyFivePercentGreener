@@ -1,0 +1,12 @@
+{
+    "id": "25PercentGreener",
+    "name": "25% Greener",
+    "display_name": "25% Greener",
+    "author": ["CatzGaming"],
+    "description": "g r e e n",
+    "prefix": "tfpg",
+    "main_file": "imsogreen.lua",
+    "priority": -1e308,
+	"badge_colour": "00FF00",
+	"version": "1.0.0~"
+}
